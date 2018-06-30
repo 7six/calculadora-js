@@ -1,1 +1,1 @@
-# calculadora-js
+# calculadora-js [![Build Status](https://travis-ci.org/7six/testFast.svg?branch=master)](https://travis-ci.org/7six/testFast)
